@@ -1,0 +1,6 @@
+D:\Source Code\Event-driven programming\ConsoleApp\Sum\bin\Debug\Sum.exe.config
+D:\Source Code\Event-driven programming\ConsoleApp\Sum\bin\Debug\Sum.exe
+D:\Source Code\Event-driven programming\ConsoleApp\Sum\bin\Debug\Sum.pdb
+D:\Source Code\Event-driven programming\ConsoleApp\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+D:\Source Code\Event-driven programming\ConsoleApp\Sum\obj\Debug\Sum.exe
+D:\Source Code\Event-driven programming\ConsoleApp\Sum\obj\Debug\Sum.pdb

@@ -1,0 +1,7 @@
+D:\Huong Su Kien\ConsoleApp1\ThemSVpr\obj\Debug\ThemSVpr.csproj.CoreCompileInputs.cache
+D:\Huong Su Kien\ConsoleApp1\ThemSVpr\bin\Debug\ThemSVpr.exe.config
+D:\Huong Su Kien\ConsoleApp1\ThemSVpr\bin\Debug\ThemSVpr.exe
+D:\Huong Su Kien\ConsoleApp1\ThemSVpr\bin\Debug\ThemSVpr.pdb
+D:\Huong Su Kien\ConsoleApp1\ThemSVpr\obj\Debug\ThemSVpr.exe
+D:\Huong Su Kien\ConsoleApp1\ThemSVpr\obj\Debug\ThemSVpr.pdb
+D:\Huong Su Kien\ConsoleApp1\ThemSVpr\obj\Debug\ThemSVpr.csproj.AssemblyReference.cache

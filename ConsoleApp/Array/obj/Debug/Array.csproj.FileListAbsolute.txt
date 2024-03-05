@@ -1,0 +1,7 @@
+D:\Source Code\Event-driven programming\ConsoleApp\Array\bin\Debug\Array.exe.config
+D:\Source Code\Event-driven programming\ConsoleApp\Array\bin\Debug\Array.exe
+D:\Source Code\Event-driven programming\ConsoleApp\Array\bin\Debug\Array.pdb
+D:\Source Code\Event-driven programming\ConsoleApp\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+D:\Source Code\Event-driven programming\ConsoleApp\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+D:\Source Code\Event-driven programming\ConsoleApp\Array\obj\Debug\Array.exe
+D:\Source Code\Event-driven programming\ConsoleApp\Array\obj\Debug\Array.pdb

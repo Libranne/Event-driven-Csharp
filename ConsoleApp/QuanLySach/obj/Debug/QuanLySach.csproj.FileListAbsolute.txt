@@ -1,0 +1,6 @@
+D:\Source Code\Event-driven programming\ConsoleApp\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\Source Code\Event-driven programming\ConsoleApp\QuanLySach\bin\Debug\QuanLySach.exe
+D:\Source Code\Event-driven programming\ConsoleApp\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\Source Code\Event-driven programming\ConsoleApp\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+D:\Source Code\Event-driven programming\ConsoleApp\QuanLySach\obj\Debug\QuanLySach.exe
+D:\Source Code\Event-driven programming\ConsoleApp\QuanLySach\obj\Debug\QuanLySach.pdb

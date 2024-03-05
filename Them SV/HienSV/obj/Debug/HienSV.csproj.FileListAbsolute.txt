@@ -1,0 +1,7 @@
+D:\Huong Su Kien\ConsoleApp1\HienSV\bin\Debug\HienSV.exe.config
+D:\Huong Su Kien\ConsoleApp1\HienSV\bin\Debug\HienSV.exe
+D:\Huong Su Kien\ConsoleApp1\HienSV\bin\Debug\HienSV.pdb
+D:\Huong Su Kien\ConsoleApp1\HienSV\obj\Debug\HienSV.csproj.CoreCompileInputs.cache
+D:\Huong Su Kien\ConsoleApp1\HienSV\obj\Debug\HienSV.exe
+D:\Huong Su Kien\ConsoleApp1\HienSV\obj\Debug\HienSV.pdb
+D:\Huong Su Kien\ConsoleApp1\HienSV\obj\Debug\HienSV.csproj.AssemblyReference.cache

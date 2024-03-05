@@ -1,0 +1,7 @@
+D:\Source Code\Event-driven programming\ConsoleApp\Do dai AB\bin\Debug\Do dai AB.exe.config
+D:\Source Code\Event-driven programming\ConsoleApp\Do dai AB\bin\Debug\Do dai AB.exe
+D:\Source Code\Event-driven programming\ConsoleApp\Do dai AB\bin\Debug\Do dai AB.pdb
+D:\Source Code\Event-driven programming\ConsoleApp\Do dai AB\obj\Debug\Do dai AB.csproj.AssemblyReference.cache
+D:\Source Code\Event-driven programming\ConsoleApp\Do dai AB\obj\Debug\Do dai AB.csproj.CoreCompileInputs.cache
+D:\Source Code\Event-driven programming\ConsoleApp\Do dai AB\obj\Debug\Do dai AB.exe
+D:\Source Code\Event-driven programming\ConsoleApp\Do dai AB\obj\Debug\Do dai AB.pdb

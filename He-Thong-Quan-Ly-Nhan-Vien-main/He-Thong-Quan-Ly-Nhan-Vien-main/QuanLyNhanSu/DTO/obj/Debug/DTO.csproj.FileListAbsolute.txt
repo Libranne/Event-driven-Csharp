@@ -1,0 +1,42 @@
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.dll
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.pdb
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.dll
+C:\Users\luanp\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.pdb
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.dll
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.pdb
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.dll
+C:\Users\luanp\new\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.pdb
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.dll
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.pdb
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.dll
+C:\Users\luanp\new2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.pdb
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.dll
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.pdb
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.dll
+C:\GIT 2\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.pdb
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.dll
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.pdb
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.dll
+C:\Demo\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.pdb
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.dll
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\bin\Debug\DTO.pdb
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.dll
+C:\Today\n07_group13_hethongquanlynhansucongty\QuanLyNhanSu\DTO\obj\Debug\DTO.pdb
+D:\Huong Su Kien\He-Thong-Quan-Ly-Nhan-Vien-main\He-Thong-Quan-Ly-Nhan-Vien-main\QuanLyNhanSu\DTO\bin\Debug\DTO.dll
+D:\Huong Su Kien\He-Thong-Quan-Ly-Nhan-Vien-main\He-Thong-Quan-Ly-Nhan-Vien-main\QuanLyNhanSu\DTO\bin\Debug\DTO.pdb
+D:\Huong Su Kien\He-Thong-Quan-Ly-Nhan-Vien-main\He-Thong-Quan-Ly-Nhan-Vien-main\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Huong Su Kien\He-Thong-Quan-Ly-Nhan-Vien-main\He-Thong-Quan-Ly-Nhan-Vien-main\QuanLyNhanSu\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Huong Su Kien\He-Thong-Quan-Ly-Nhan-Vien-main\He-Thong-Quan-Ly-Nhan-Vien-main\QuanLyNhanSu\DTO\obj\Debug\DTO.dll
+D:\Huong Su Kien\He-Thong-Quan-Ly-Nhan-Vien-main\He-Thong-Quan-Ly-Nhan-Vien-main\QuanLyNhanSu\DTO\obj\Debug\DTO.pdb

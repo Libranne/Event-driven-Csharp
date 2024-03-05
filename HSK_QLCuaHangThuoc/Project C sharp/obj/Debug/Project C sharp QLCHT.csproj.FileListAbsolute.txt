@@ -1,0 +1,44 @@
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\Project C sharp.exe.config
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\Project C sharp.exe
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\Project C sharp.pdb
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.Shared.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\bin\Debug\stdole.dll
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project C sharp QLCHT.csproj.AssemblyReference.cache
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.InDonNhap.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.DoiMatKhau.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.DangKy.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.ChiTietNhapHang.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.CTHoaDon.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.DSDonNhap.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.HoaDon.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.InCTDN.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.InHoaDon.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.KhachHang.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.Login.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.Menu.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.NhaCungCap.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.NhanVien.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.NhapHang.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.Properties.Resources.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.Thuoc.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project_C_sharp.TimKiemDonNhap.resources
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project C sharp QLCHT.csproj.GenerateResource.cache
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project C sharp QLCHT.csproj.CoreCompileInputs.cache
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project C sharp QLCHT.csproj.CopyComplete
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project C sharp.exe
+D:\Huong Su Kien\Project C sharp\Project C sharp\obj\Debug\Project C sharp.pdb

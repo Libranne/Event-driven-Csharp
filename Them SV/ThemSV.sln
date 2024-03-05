@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemSV", "ThemSV\ThemSV.csproj", "{1E6DDB4E-1625-4173-94EF-B3C300D67485}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemSVpr", "ThemSVpr\ThemSVpr.csproj", "{E08C6381-C862-439E-8A4D-E78073863248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HienSV", "HienSV\HienSV.csproj", "{885D01A0-4A33-4CD6-8916-BF071AD69C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E6DDB4E-1625-4173-94EF-B3C300D67485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6DDB4E-1625-4173-94EF-B3C300D67485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6DDB4E-1625-4173-94EF-B3C300D67485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6DDB4E-1625-4173-94EF-B3C300D67485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E08C6381-C862-439E-8A4D-E78073863248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08C6381-C862-439E-8A4D-E78073863248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08C6381-C862-439E-8A4D-E78073863248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08C6381-C862-439E-8A4D-E78073863248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885D01A0-4A33-4CD6-8916-BF071AD69C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885D01A0-4A33-4CD6-8916-BF071AD69C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885D01A0-4A33-4CD6-8916-BF071AD69C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885D01A0-4A33-4CD6-8916-BF071AD69C63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B01DBD95-064A-40D2-9A8C-4D1E9D60DFFA}
+	EndGlobalSection
+EndGlobal
